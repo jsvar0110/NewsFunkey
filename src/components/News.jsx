@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import NewItem from './NewItem'
-import Spinner, { spinner } from './spinner';
+import Spinner, { spinner } from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
 
